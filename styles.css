@@ -7,3 +7,16 @@ h1 {
     font-size: 5rem;
     padding: 100px;
 }
+
+.big {
+    font-size: 3rem;
+}
+
+.tiny {
+    width: 500px;
+    margin: auto;
+}
+
+img {
+    width: 100%;
+}
