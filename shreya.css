@@ -48,6 +48,12 @@ h1 {
     font-size: 1.5rem;
 }
 
+/* right align */
+
+.right {
+    text-align: right;
+}
+
 /* ******intro******* */
 
 .tro {
@@ -56,9 +62,9 @@ h1 {
 
 /* ******spending******* */
 
-.spending {
+/* .spending {
     text-align: right;
-}
+} */
 
 .spending h2 {
     text-align: left;
