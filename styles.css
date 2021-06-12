@@ -77,7 +77,10 @@ footer {
     position: relative;
 
     background-size: cover;
-    background-image: url("https://cdn.britannica.com/51/124551-050-25801343/terrain-Monteverde-Costa-Rica.jpg");
+    /* first */
+    /* background-image: url("https://cdn.britannica.com/51/124551-050-25801343/terrain-Monteverde-Costa-Rica.jpg"); */
+    /* second  */
+    background-image: url("https://wallpapercave.com/wp/wp1879020.jpg");
 }
 
 .cover::before {
