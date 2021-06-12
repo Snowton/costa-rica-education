@@ -21,7 +21,6 @@ img {
     width: 100%;
 }
 
-<<<<<<< HEAD
 nav {
     position: fixed;
     display: flex;
@@ -54,12 +53,3 @@ nav a {
     color: black;
     padding: 10px;
 }
-
-nav a {
-}
-=======
-.small {
-    width: 1000px;
-    text-align: center;
-}
->>>>>>> 09e857d7c675e33974cc4c275b10051fbbfa72f9
