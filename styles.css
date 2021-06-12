@@ -96,3 +96,7 @@ footer {
     display: flex;
     align-items: center;
 }
+
+.cover > div {
+    z-index: 50;
+}
