@@ -52,6 +52,11 @@ nav a {
     text-decoration: none;
     color: black;
     padding: 10px 20px;
+    transition: 0.3s;
+}
+
+nav a:hover {
+    color: #777;
 }
 
 .spacer {
