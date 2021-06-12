@@ -80,7 +80,9 @@ footer {
     /* first */
     /* background-image: url("https://cdn.britannica.com/51/124551-050-25801343/terrain-Monteverde-Costa-Rica.jpg"); */
     /* second  */
-    background-image: url("https://wallpapercave.com/wp/wp1879020.jpg");
+    /* background-image: url("https://wallpapercave.com/wp/wp1879020.jpg"); */
+    /* third */
+    background-image: url("https://images.unsplash.com/photo-1559253664-ca249d4608c6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80");
 }
 
 .cover::before {
