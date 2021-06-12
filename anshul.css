@@ -1,0 +1,21 @@
+.title_anshul {
+    height: 75vh;
+    min-height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    position: relative;
+    background-size: cover;
+    background-image: url('https://www.state.gov/wp-content/uploads/2019/04/Costa-Rica-e1556040000362-2500x1406.jpg');
+    background-attachment: fixed;
+}
+
+.container {
+    width: 100px;
+    margin: auto;
+}
+
+.empty_line {
+    color: white;
+}
