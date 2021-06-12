@@ -1,4 +1,17 @@
+.title_shreya {
+    height: 75vh;
+    min-height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    position: relative;
+    background-size: cover;
+    background-image: url('');
+    background-attachment: fixed;
+}
+
 .container {
     width: 100px;
-    margin: 100px auto;
+    margin: auto;
 }
