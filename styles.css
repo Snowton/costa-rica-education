@@ -8,10 +8,6 @@ h1 {
     padding: 100px;
 }
 
-.big {
-    font-size: 3rem;
-}
-
 .tiny {
     width: 500px;
     margin: auto;
@@ -66,4 +62,25 @@ nav a:hover {
 footer {
     text-align: center;
     padding: 20px;
+}
+
+/* home specific */
+
+.cover {
+    color: white;
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    background-size: cover;
+    background-image: url("https://cdn.britannica.com/51/124551-050-25801343/terrain-Monteverde-Costa-Rica.jpg");
+}
+
+.cover .word {
+    flex-grow: 2;
+    display: flex;
+    align-items: center;
 }
