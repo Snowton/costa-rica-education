@@ -90,7 +90,7 @@ h1 {
     position: relative;
 }
 
-.costagovbg div {
+.costagovbg > div {
     width: 800px;
     margin: auto;
 }
@@ -99,8 +99,8 @@ h1 {
     font-size: 3rem;
 }
 
-.costagovbg::after {
-    position: absolute;
+.costagovbg img {
+    display: none;
 }
 
 hr {
@@ -109,4 +109,28 @@ hr {
     margin-top: 50px;
     border: 1px dotted rgba(0, 0, 0, 0.5);
     border-style: none none solid;
+}
+
+/* MEDIA QUERIES */
+
+@media only screen and (max-width: 850px) {
+    .container, .costagovbg > div {
+        width: auto;
+        padding: 20px;
+    }
+
+    .container h2, .costagovbg h2 {
+        font-size: 2rem;
+    }
+
+    .costagovbg {
+        height: auto;
+        margin-bottom: 0;
+    }
+
+    .costa {
+        display: block;
+        width: 80%;
+        margin: auto;
+    }
 }
