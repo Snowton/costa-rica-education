@@ -11,7 +11,7 @@ body {
 
     position: relative;
     background-size: cover;
-    background-image: url('https://deih43ym53wif.cloudfront.net/arenal-volcano-costa-rica-shutterstock_1337924888_ba3a50b8f9.jpeg');
+    background-image: url('volcano.jpeg');
     background-attachment: fixed;
 }
 
@@ -85,7 +85,7 @@ h1 {
     padding: 200px 0 20px;
     margin: 50px auto;
 
-    background-image: linear-gradient(to bottom, rgba(255,255,255,0.4), rgba(255,255,255,0.9) 230px), url("https://www.internationalinvestment.net/api/v1/wps/d24f4ff/76f93572-b2fe-4f7d-8fde-352adc9f55bd/4/Costa-Rica-580x358.jpg"); 
+    background-image: linear-gradient(to bottom, rgba(255,255,255,0.4), rgba(255,255,255,0.9) 230px), url("gov.jpeg"); 
     background-size: cover;
     position: relative;
 }
@@ -98,11 +98,6 @@ h1 {
 .costagovbg h2 {
     font-size: 3rem;
 }
-
-.costagovbg img {
-    display: none;
-}
-
 hr {
     /* border: 3px 0 0 0;
     border-top-style: dotted; */
